@@ -1,0 +1,18 @@
+{
+  "name": "shelljs-ejs-generator-test",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "commander": "^2.15.0",
+    "ejs": "*",
+    "express": "3.2.6",
+    "meow": "^4.0.0",
+    "shelljs": "^0.8.1"
+  }
+}
+
+
