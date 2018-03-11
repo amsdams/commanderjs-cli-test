@@ -1,6 +1,6 @@
 
 
-# shelljs-ejs-generator-test
+# commanderjs-cli-test
 
 
 
